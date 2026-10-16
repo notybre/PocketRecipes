@@ -1,0 +1,7 @@
+<resources>
+<color name="pr_primary">#81C784</color><color name="pr_strong">#A5D6A7</color>
+<color name="pr_background">#171E18</color><color name="pr_surface">#232D25</color>
+<color name="pr_text">#EDF3E9</color><color name="pr_muted">#B3BFAF</color>
+<color name="pr_soft">#2B3E2D</color><color name="pr_border">#4D5E4C</color>
+<color name="pr_error">#FFB4AB</color><color name="pr_accent">#FFB74D</color>
+</resources>

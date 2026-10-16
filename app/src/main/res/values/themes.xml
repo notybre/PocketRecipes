@@ -1,0 +1,14 @@
+<resources>
+<style name="Theme.PocketRecipes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<item name="colorPrimary">@color/pr_strong</item><item name="colorPrimaryVariant">@color/pr_strong</item>
+<item name="colorOnPrimary">@color/pr_background</item><item name="colorSecondary">@color/pr_strong</item>
+<item name="colorSurface">@color/pr_surface</item><item name="colorOnSurface">@color/pr_text</item>
+<item name="colorError">@color/pr_error</item><item name="android:colorBackground">@color/pr_background</item>
+<item name="android:windowBackground">@color/pr_background</item><item name="android:fontFamily">sans</item>
+<item name="android:statusBarColor">@color/pr_background</item><item name="android:navigationBarColor">@color/pr_background</item>
+<item name="android:windowLightStatusBar">true</item>
+</style>
+<style name="TextAppearance.PocketRecipes.Toolbar" parent="TextAppearance.MaterialComponents.Headline6">
+<item name="android:textSize">24sp</item><item name="android:textStyle">bold</item>
+</style>
+</resources>

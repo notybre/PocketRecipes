@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">PocketRecipes</string><string name="home">Главная</string>
+<string name="catalog">Каталог</string><string name="add">Добавить</string>
+<string name="favorites">Избранное</string><string name="profile">Профиль</string>
+<string name="back">Назад</string><string name="shopping">Список покупок</string>
+</resources>

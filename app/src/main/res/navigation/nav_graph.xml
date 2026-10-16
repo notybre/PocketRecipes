@@ -1,0 +1,15 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph" app:startDestination="@id/home">
+<fragment android:id="@+id/onboarding" android:name="com.example.pocketrecipes.ui.OnboardingFragment" android:label="PocketRecipes"/>
+<fragment android:id="@+id/home" android:name="com.example.pocketrecipes.ui.HomeFragment" android:label="PocketRecipes"/>
+<fragment android:id="@+id/catalog" android:name="com.example.pocketrecipes.ui.CatalogFragment" android:label="Все рецепты"/>
+<fragment android:id="@+id/categories" android:name="com.example.pocketrecipes.ui.CategoriesFragment" android:label="Категории"/>
+<fragment android:id="@+id/search" android:name="com.example.pocketrecipes.ui.SearchFragment" android:label="Поиск и фильтры"/>
+<fragment android:id="@+id/details" android:name="com.example.pocketrecipes.ui.RecipeDetailsFragment" android:label="Рецепт"/>
+<fragment android:id="@+id/add_recipe" android:name="com.example.pocketrecipes.ui.AddRecipeFragment" android:label="Новый рецепт"/>
+<fragment android:id="@+id/edit_recipe" android:name="com.example.pocketrecipes.ui.EditRecipeFragment" android:label="Редактирование"/>
+<fragment android:id="@+id/my_recipes" android:name="com.example.pocketrecipes.ui.MyRecipesFragment" android:label="Мои рецепты"/>
+<fragment android:id="@+id/favorites" android:name="com.example.pocketrecipes.ui.FavoritesFragment" android:label="Избранное"/>
+<fragment android:id="@+id/shopping" android:name="com.example.pocketrecipes.ui.ShoppingListFragment" android:label="Список покупок"/>
+<fragment android:id="@+id/profile" android:name="com.example.pocketrecipes.ui.ProfileFragment" android:label="Профиль"/>
+<fragment android:id="@+id/settings" android:name="com.example.pocketrecipes.ui.SettingsFragment" android:label="Настройки"/>
+</navigation>
